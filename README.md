@@ -44,3 +44,7 @@ The design keeps each item visible separately. An unknown state must stay unknow
 The team produced a research report and an interactive React/Vite presentation of the findings and concept. The system diagram above is a **proposal**, not an implemented architecture. Before claiming product impact, the concept would need usability testing, technical prototyping, and evidence that it reduces uncertainty without creating false reassurance.
 
 **Team:** Laura Cuenca, Josep Audenis, Marc Vendrell, Nil de Creus, and Armand López. This is a group project; the work is presented as a team contribution.
+
+## Original presentation
+
+The [team presentation](presentation.pdf) shows the problem framing and proposed solution. Its sensor network and impact statements describe the intended concept, not functionality built or outcomes measured in this project.
